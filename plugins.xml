@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<plugins>
+    <pyqgis_plugin name="Impressão de Mapas Oficiais" version="1.16.a5edf81">
+        <description>Impressão de Mapas Oficiais</description>
+        <qgis_minimum_version>2.18</qgis_minimum_version>
+        <author_name>Vinicius Dória / IBGE - DGC/CETE, Lucas Halberstadt da Rosa / IBGE - SBT/MG</author_name>
+        <download_url>\\hdeluc13\CD2020_Mapas\repo\ImpressaoDeMapasOficiais.zip</download_url>
+        <experimental>False</experimental>
+    </pyqgis_plugin>
+    <pyqgis_plugin name='Exportador do SISMAP' version='1.8'>
+        <description>Plugin de exportação das camadas do SISMAP</description>
+        <qgis_minimum_version>2.18</qgis_minimum_version>
+        <author_name>Vinicius Dória / IBGE - DGC/CETE</author_name>
+        <download_url>\\hdeluc13\CD2020_Mapas\repo\ExportaSismap.zip</download_url>
+        <experimental>False</experimental>
+    </pyqgis_plugin>
+    <pyqgis_plugin name="Impressão de Mapas Oficiais MTI" version="1.13">
+        <description>Impressão de Mapas Oficiais MTI</description>
+        <qgis_minimum_version>2.18</qgis_minimum_version>
+        <author_name>Vinicius Dória / IBGE - DGC/CETE, Lucas Halberstadt da Rosa / IBGE - SBT/MG</author_name>
+        <download_url>\\hdeluc13\CD2020_Mapas\repo\ImpressaoDeMapasOficiais_MTI.zip</download_url>
+        <experimental>False</experimental>
+    </pyqgis_plugin>
+    <pyqgis_plugin name="Gerador de Projetos" version="6.5">
+        <description>
+            Gera projetos QGIS para edição de OS off-line - IBGE
+        </description>
+        <version>6.5</version>
+        <qgis_minimum_version>2.14</qgis_minimum_version>
+        <homepage/>
+        <file_name/>
+        <author_name>Fabiano Saraiva (Sassá) / IBGE - SBT/PR</author_name>
+        <download_url>
+            \\hdeluc13\CD2020_Mapas\repo\Geraprj_v4.zip
+        </download_url>
+        <experimental>False</experimental>
+    </pyqgis_plugin>
+</plugins>
